@@ -1,0 +1,15 @@
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\bin\Debug\net6.0\taxi.exe
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\bin\Debug\net6.0\taxi.deps.json
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\bin\Debug\net6.0\taxi.runtimeconfig.json
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\bin\Debug\net6.0\taxi.dll
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\bin\Debug\net6.0\taxi.pdb
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.csproj.AssemblyReference.cache
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.AssemblyInfoInputs.cache
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.AssemblyInfo.cs
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.dll
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\refint\taxi.dll
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.pdb
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\taxi.genruntimeconfig.cache
+C:\Users\Aditya Budi Prasetya\source\repos\taxi\taxi\obj\Debug\net6.0\ref\taxi.dll
